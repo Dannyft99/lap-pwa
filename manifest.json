@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Creado por el grupo",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Fotos de zorros",
+  "short_name": "Zorros",
+  "start_url": "/pwa-examples/a2hs/index.html"
+}
